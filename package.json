@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-ProCoders-8/",
+    "build": "vite build --base=/project-ProCoders-8_My/",
     "preview": "vite preview"
   },
   "devDependencies": {
